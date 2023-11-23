@@ -1,0 +1,2 @@
+# CoppockIndicator
+Coppock Indicator
